@@ -15,8 +15,8 @@ You have been called on to demonstrate your newly learned skills to create a ful
 
 There are `@TODO` comments throughout the project. We recommend tackling the sections in order. Start by reading the READMEs in:
 
-1. [`./backend/`](./backend/README.md)
-2. [`./frontend/`](./frontend/README.md)
+1. [`./backend/`](./Project/03_coffee_shop_full_stack/starter_code/backend/README.md)
+2. [`./frontend/`](./Project/03_coffee_shop_full_stack/starter_code/frontend/README.md)
 
 ## About the Stack
 
@@ -26,11 +26,11 @@ We started the full stack application for you. It is designed with some key func
 
 The `./backend` directory contains a partially completed Flask server with a pre-written SQLAlchemy module to simplify your data needs. You will need to complete the required endpoints, configure, and integrate Auth0 for authentication.
 
-[View the README.md within ./backend for more details.](./backend/README.md)
+[View the README.md within ./backend for more details.](./Project/03_coffee_shop_full_stack/starter_code/backend/README.md)
 
 ### Frontend
 
 The `./frontend` directory contains a complete Ionic frontend to consume the data from the Flask server. You will only need to update the environment variables found within (./frontend/src/environment/environment.ts) to reflect the Auth0 configuration details set up for the backend app.
 
-[View the README.md within ./frontend for more details.](./frontend/README.md)
+[View the README.md within ./frontend for more details.](./Project/03_coffee_shop_full_stack/starter_code/frontend/README.md)
 
